@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T14:10:27.083Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.5" etag="KFsYqLqx5oUWxOW4Qjo_" type="github"><diagram id="bez5k5i8nhf1Y3OmX4kq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-10T14:28:40.448Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="5ydrAU2Zp3fkUzDhhWs1" version="14.8.5" type="github">
+  <diagram id="bez5k5i8nhf1Y3OmX4kq" name="Page-1">
+    <mxGraphModel dx="2187" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-22" value="AI Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;align=left;labelBackgroundColor=none;labelBorderColor=none;fontStyle=0;fontSize=10;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="630" y="60" width="140" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-19" value="Log Aggregation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;align=left;labelBackgroundColor=none;labelBorderColor=none;fontStyle=0;fontSize=10;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="70" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-20" value="Metrics Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;align=left;labelBackgroundColor=none;labelBorderColor=none;fontStyle=0;fontSize=10;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="70" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-18" value="Performance Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;labelBackgroundColor=none;labelBorderColor=none;fontStyle=0;fontSize=10;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="90" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-17" value="Resource Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;labelBackgroundColor=none;labelBorderColor=none;fontStyle=0;fontSize=10;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="100" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-16" value="Event Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;labelBackgroundColor=none;labelBorderColor=none;fontStyle=0;fontSize=10;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="140" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-3" value="AI Implementation Stage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-4" value="AI Maturity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="240" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-5" value="Simplified" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-8" value="Reactive&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Simplified%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%22410%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-9" value="Predictive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-10" value="Proactive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-11" value="Collect" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-12" value="Organize" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-13" value="Analyze" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-14" value="Infuse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-15" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="420" as="sourcePoint" />
+            <mxPoint x="780" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="320" />
+              <mxPoint x="460" y="300" />
+              <mxPoint x="460" y="180" />
+              <mxPoint x="570" y="170" />
+              <mxPoint x="720" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-23" value="Continually reacting to tickets, alerts and complaints" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-24" value="Correlate events from multiple sources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-27" value="Quickly find root causes, reduce outage time and impact" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="240" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-28" value="Automatically instrument apps for observability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-31" value="Early detection allows outages to be fixed before users are impacted&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; font-weight: 400&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Quickly%20find%20root%20causes%2C%20reduce%20outage%20time%20and%20impact%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BlabelBackgroundColor%3Dnone%3BfontSize%3D10%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22315%22%20y%3D%22240%22%20width%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-32" value="Self-healing and autonomous, avoids most outages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NuqrwKFPe-X15_l2J4vJ-33" value="Site Reliability Growth through the implementation of &lt;br&gt;Observability and AIOperations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="610" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
